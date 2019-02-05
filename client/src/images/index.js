@@ -1,0 +1,1 @@
+export backdrop from './backdrop.jpeg';
